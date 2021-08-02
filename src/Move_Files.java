@@ -17,7 +17,7 @@ public class Move_Files {
 		boolean ErrorMove = false;
 		
 		
-		// Source
+		// Source part
 		String SourceFile_Value = RelativePath +CurrentName+".xml".toString();
 		String SourceDirectory = RelativePath +CurrentName.toString();
 		// Destination
